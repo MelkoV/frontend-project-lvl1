@@ -17,6 +17,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      # Install
+      - name: Install
+        run: make install
+
       # Runs the Linter action
       - name: Run Linter
         run: make lint
