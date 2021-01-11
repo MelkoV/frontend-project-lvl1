@@ -5,4 +5,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/c1514206dcd5d6d07c36/maintainability)](https://codeclimate.com/github/MelkoV/frontend-project-lvl1/maintainability)
 
 ### GitHub Actions
-[![Lint](https://github.com/MelkoV/frontend-project-lvl1/workflows/linter/badge.svg)](https://github.com/MelkoV/frontend-project-lvl1/actions)
+[![Lint](https://github.com/MelkoV/frontend-project-lvl1/workflows/Linter/badge.svg)](https://github.com/MelkoV/frontend-project-lvl1/actions)
