@@ -6,3 +6,6 @@
 
 ### GitHub Actions
 [![Lint](https://github.com/MelkoV/frontend-project-lvl1/workflows/Linter/badge.svg)](https://github.com/MelkoV/frontend-project-lvl1/actions)
+
+### asciinema
+https://asciinema.org/a/cnE06g1jbY2VLO7abQXGBKTWJ
